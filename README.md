@@ -12,7 +12,7 @@ Jupyter notebooks:
 
 * `FEC Bulk Download -- Getting Started.ipynb` shows how to access the FEC bulk download site, display lists of files, and download files.
 
-* `FEC Bulk Download -- Make Local Copy.ipynb` shows how to download all files from the FEC Bulk Download site:  29,620 files, 61.8 GB, nearly 100 minutes elapsed time [2019-11-29]. File `FEC-Bulk-Download-List.txt` is list of all 29,620 downloaded files.
+* `FEC Bulk Download -- Make Local Copy.ipynb` shows how to download all files from the FEC Bulk Download site:  29,620 files, 61.8 GB (transferred in nearly 100 minutes elapsed time on 2019-11-29). File `FEC-Bulk-Download-List.txt` is a list of all 29,620 downloaded files.
 
 Downloaded folders of interest:
 
@@ -24,4 +24,4 @@ Downloaded folders of interest:
 
 * Folder `data.fec.gov` has candidate disbursement data since 2010, along with leadership and lobbyist information.
 
-Does anyone have better sources for historical or technical information about this FEC resource?
+Can anyone suggest better sources for historical or technical information about this FEC resource?
